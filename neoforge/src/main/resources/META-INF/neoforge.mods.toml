@@ -1,15 +1,15 @@
 modLoader = "javafml"
 loaderVersion = "[4,)"
-issueTrackerURL = "https://github.com/ssblur/unfocused-scriptor_mana/issues"
+issueTrackerURL = "https://github.com/ssblur/scriptor_mana/issues"
 license = "CC0-1.0"
 
 [[mods]]
 modId = "scriptor_mana"
 version = "${version}"
-displayName = "Scriptor Mana"
+displayName = "Scriptor Magicae: Mana Mode"
 authors = "SSBlur"
 description = '''
-An uninitialized Unfocused mod
+An addon for Scriptor that replaces the default cooldown system with a mana bar.
 '''
 logoFile = "icon.png"
 

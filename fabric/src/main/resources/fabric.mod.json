@@ -2,12 +2,12 @@
 	"schemaVersion": 1,
 	"id": "scriptor_mana",
 	"version": "${version}",
-	"name": "Scriptor Mana",
-	"description": "An uninitialized Unfocused mod",
+	"name": "Scriptor Magicae: Mana Mode",
+	"description": "An addon for Scriptor that replaces the default cooldown system with a mana bar.",
 	"authors": [ "SSBlur" ],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/ssblur/unfocused-scriptor_mana"
+		"homepage": "https://github.com/ssblur/scriptor_mana",
+		"sources": "https://github.com/ssblur/scriptor_mana"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/scriptor_mana/icon.png",
